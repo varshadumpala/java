@@ -2,6 +2,6 @@ class Main
 {
 void m()
 {
-//code
+System.out.println("Hello");
 }
 }
